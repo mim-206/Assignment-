@@ -1,4 +1,5 @@
 ASSIGNMENT
+App - SNAPCHAT; Tech stack used
 
 FRONTEND (Mobile)
 
